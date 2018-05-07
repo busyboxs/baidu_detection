@@ -1,0 +1,170 @@
+# a
+1  ABLE JEANS 1111
+2  AIGLE  1111111
+3  AUPRES  111111
+4  AVENE  111
+
+# b
+5  BASIC HOUSE
+6  BURBERY
+
+# c
+7  cache
+8  Calvin Klein
+9  CASIO
+10  CHANEL
+11  CoCo
+12  COSTA COFFEE
+
+# d
+13  Dairy Queue
+14  dyson
+
+# e
+15  ESPRIT
+16  Etam
+
+# G
+17  GODIVA
+18  GUESS
+
+# h
+19  HAZZYS
+20  H:CONWECT
+
+# i
+21  innisfree
+
+# j
+22  JACK JONES
+
+# k
+23  Kappa
+24  kids land
+
+# L
+25  La Chapelle
+26  LANEIGE
+27  Lecoq sportif
+28  LOHO
+29  LONGINES
+
+# m
+30  Mamonde
+31  MAYBELLINE
+32  MIDO
+33  MLB
+
+# n
+34  NEW BALANCE
+
+# o
+35  OPPO
+
+# P
+36  PANDORA
+37  PARKER
+38  PEACEBIRD
+39  PLAYBOY
+40  POLO SPORT
+41  Puella
+
+# r
+42  Roem
+
+# S
+43  SAMSUNG
+44  SELECTED
+45  SEPHORA
+46  STARBUCKS COFFEE
+47  ST SAT
+48  SWAROVSKI
+
+# T
+49  THE NORTH FACE
+50  Timberland
+51  TISSOT
+
+# V
+52  VERO MODA
+
+# a
+53  AJIDOU
+54  爱有梅有
+55  安踏体育
+56  奥康
+57  奥普
+
+# b
+58  巴黎三城
+59  佰草集
+60  宝岛眼镜
+61  北欧E家
+62  必胜客
+
+# d
+63  Dairy Queen
+64  达芙妮
+65  稻草人
+66  多乐之日
+
+# f
+67  飞亚达
+68  呷哺呷哺
+
+# g
+69  古今
+70  桂源铺
+
+# h
+71  海澜之家
+72  汉堡王
+73  虎牌
+
+# j
+74  吉野家
+75  绝味鸭脖
+
+# k
+76  开心丽果
+77  肯德基
+78  快乐柠檬
+
+# l
+79  伶俐
+80  留夫鸭
+81  鹿港小镇
+82  罗西尼
+
+# m
+83  麦当劳
+84  满记甜品
+85  面包新语
+86  名创优品
+
+# o
+87  欧诗漫
+88  欧味多
+
+# q
+89  乔丹体育
+90  屈臣氏
+
+# r
+91  热风
+
+# s
+92  森马
+93  食之秘
+
+# x
+94  西贝莜面村
+95  鲜芋仙
+96  象印
+97  谢瑞麟
+
+98  UNIQLO
+
+# z
+99  正一味
+100 周大福
